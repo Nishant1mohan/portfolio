@@ -299,12 +299,7 @@ const skills = {
         // },
       ],
     },
-    {
-      // title: "",
-      // fileName: "",
-//       skills: [],
-      
-    },
+    //change
   ],
 };
 
