@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Nishant Mohan Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://nishant1mohan.github.io/portfolio/",
   },
 };
 
