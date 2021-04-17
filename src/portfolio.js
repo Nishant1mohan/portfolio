@@ -303,36 +303,7 @@ const skills = {
       // title: "",
       // fileName: "",
 //       skills: [],
-      softwareSkills: [
-        {
-          // skillName: "",
-          // fontAwesomeClassname: "",
-          // style: {
-          //   color: "",
-          // }, 
-        },
-        // {
-        //   skillName: "Figma",
-        //   fontAwesomeClassname: "simple-icons:figma",
-        //   style: {
-        //     color: "#F24E1E",
-        //   },
-        // },
-        {
-          // skillName: "",
-          // fontAwesomeClassname: "",
-          // style: {
-          //   color: "",
-          // },
-        },
-        // {
-        //   skillName: "Inkscape",
-        //   fontAwesomeClassname: "simple-icons:inkscape",
-        //   style: {
-        //     color: "#000000",
-        //   },
-        // },
-      ],
+      
     },
   ],
 };
