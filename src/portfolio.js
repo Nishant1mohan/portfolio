@@ -302,7 +302,7 @@ const skills = {
     {
       // title: "",
       // fileName: "",
-      skills: [],
+//       skills: [],
       softwareSkills: [
         {
           // skillName: "",
