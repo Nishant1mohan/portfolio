@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Nishant's Portfolio",
+  title: "Nishant's Portfolio1",
   description:
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
