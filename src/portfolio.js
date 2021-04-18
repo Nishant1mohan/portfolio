@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Nishant Mohan",
   logo_name: "Nishant Mohan",
-  nickname: "Nikss",
+  nickname: "Niks",
   subTitle:
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink: "#",
