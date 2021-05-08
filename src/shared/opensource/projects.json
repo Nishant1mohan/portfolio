@@ -2,9 +2,9 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
+      "name": "Portfolio",
       "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
+      "url": "https://nishant1mohan.github.io/portfolio/",
       "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
       "isFork": false,
       "languages": [
@@ -24,10 +24,10 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-      "name": "truvisory",
+      "name": "Accounting Software",
       "createdAt": "2020-06-03T11:53:55Z",
-      "url": "https://github.com/ashutosh1919/truvisory",
-      "description": "This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:",
+      "url": "https://github.com/Nishant1mohan/akaunting",
+      "description": "This project is meant to provide resources to users who want to access good accounting Software for small and large business. You can visit project by:",
       "isFork": false,
       "languages": [
         {
@@ -39,68 +39,79 @@
           "iconifyClass": "logos-css-3"
         },
         {
+          "name": "Laravel",
+          "iconifyClass": "logos-laravel"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name": "Course Website",
+      "createdAt": "2020-06-19T14:24:55Z",
+      "url": "https://learning-zone.github.io/website-templates/above-educational-bootstrap-responsive-template/",
+      "description": "This Website is Bootstrap , html, css for courses in javadcript",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },{
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },{
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
-      "name": "ml-data-bot",
-      "createdAt": "2020-06-19T14:24:55Z",
-      "url": "https://github.com/ashutosh1919/ml-data-bot",
-      "description": "Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
       "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-      "name": "Stock-Prediction-using-LSTM",
+      "name": "Delivery service for healthy food",
       "createdAt": "2018-11-03T05:00:56Z",
-      "url": "https://github.com/ashutosh1919/Stock-Prediction-using-LSTM",
-      "description": "This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.",
+      "url": "https://www.dineamic.com.au/",
+      "description": "The site is very quick to react without any reload powers with woocommerce and wordpress",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "Wordpress",
+          "iconifyClass": "logos-wordpress"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
-      "name": "Pick-Parser",
+      "name": "Ecommerce",
       "createdAt": "2019-08-13T13:13:00Z",
-      "url": "https://github.com/dsc-iiitdmk/Pick-Parser",
-      "description": "This Project is to create a tool which can parse the Resumes and transform them into our own templates",
+      "url": "https://shoplane-by-lassie.netlify.app/",
+      "description": "This Project is Ecommerce clothes to order different collection ",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },{
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },{
+          "name": "php",
+          "iconifyClass": "logos-php"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-      "name": "Survival_3D_Game",
+      "name": "Ecommerce",
       "createdAt": "2019-04-18T17:25:51Z",
-      "url": "https://github.com/ashutosh1919/Survival_3D_Game",
-      "description": "Survival Game using Unity3D",
+      "url": "https://www.globusjourneys.in/",
+      "description": "Travel website for globe travellers for worldwide surfing",
       "isFork": false,
       "languages": [
         {
-          "name": "C#",
-          "iconifyClass": "logos-c-sharp"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },{
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
       ]
     }
