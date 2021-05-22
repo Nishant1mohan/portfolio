@@ -47,6 +47,9 @@ code {
 html,
 body {
   scroll-behavior: smooth;
+  display: grid !important;
+    width: 100%;
+    max-width: 100%;
 }
 body {
   margin: 0;
