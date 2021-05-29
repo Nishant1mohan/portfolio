@@ -73,8 +73,8 @@
       "isFork": false,
       "languages": [
         {
-          "name": "Wordpress",
-          "iconifyClass": "logos-wordpress"
+          "name": "shopify",
+          "iconifyClass": "logos-shopify"
         }
       ]
     },
